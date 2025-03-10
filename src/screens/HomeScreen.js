@@ -30,7 +30,7 @@ const HomeScreen = () => {
       <DecisionMakerCards />
       <DashboardTabs />
       <StrategicNetworking />
-      <ConnectionGrowth />
+      {/* <ConnectionGrowth /> */}
       {/* <ConnectionDash /> */}
     </Grid>
   );
